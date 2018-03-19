@@ -1,2 +1,3 @@
 # Matlab_Relativity
-code that solves for the electric field force in a different frame of reference
+This code solves for the magnetic force between two loops, but using the electric force and special relativity, as explained in this youtube video 
+https://www.youtube.com/watch?v=1TKSfAkWWN0
