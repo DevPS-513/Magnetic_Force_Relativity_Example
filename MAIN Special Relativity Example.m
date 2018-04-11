@@ -1,6 +1,12 @@
 clear all
 close all
 clc
+% This code solves for the force on a moving charg, or "cat" using magnetic equations
+% and only electric field equation in conjunction with special relativity, it verifies, but does not validate
+% the explaination given in the youtube video https://www.youtube.com/watch?v=1TKSfAkWWN0
+% Author: Max B.W
+
+
 % units
 meters=1;
 cm=(1/100)*meters;
